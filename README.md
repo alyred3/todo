@@ -1,11 +1,14 @@
-# README
+# Todo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Fluid user interface Todo app built using JavaScript.
 
-Things you may want to cover:
+[View the deployed application](https://todoster-alyssa-redman.herokuapp.com/)
 
-* Ruby version
+__
+
+### Features
+
+* Ruby 2.5.3
 
 * System dependencies
 
@@ -21,4 +24,7 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+__
+
+### Screenshots
+![Screenshot](app/assets/images/todo.png)
