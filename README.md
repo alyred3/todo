@@ -1,6 +1,6 @@
 # Todo
 
-Fluid user interface Todo app built using JavaScript.
+Fluid user interface to-do single page app built using JavaScript, HTML, and CSS.
 
 [View the deployed application](https://todoster-alyssa-redman.herokuapp.com/)
 
@@ -10,19 +10,14 @@ __
 
 * Ruby 2.5.3
 
-* System dependencies
+* PostgeSQL database
 
-* Configuration
+* JavaScript and jQuery allow for rapid addition of dynamic content
 
-* Database creation
+* RSpec and FactoryBot gems for Test Driven Developement
 
-* Database initialization
+* Uses RESTful JSON API to fetch and update content 
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
 
 __
 
