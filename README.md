@@ -4,7 +4,7 @@ Fluid user interface to-do single page app built using JavaScript, HTML, and CSS
 
 [View the deployed application](https://todoster-alyssa-redman.herokuapp.com/)
 
-__
+______
 
 ### Features
 
@@ -18,8 +18,14 @@ __
 
 * Uses RESTful JSON API to fetch and update content 
 
+______
 
-__
+### How to use
+
+Type into the "What needs to be done?" field to add new items to the list. Simply click on item to check or uncheck it.
+
+
+_______
 
 ### Screenshots
 ![Screenshot](app/assets/images/todo.png)
