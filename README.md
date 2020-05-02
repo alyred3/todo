@@ -22,4 +22,4 @@ __
 __
 
 ### Screenshots
-![Screenshot](app/assets/images/todo.png)
+![Screenshot](app/assets/images/Todo.gif)
