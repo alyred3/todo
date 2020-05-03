@@ -24,8 +24,4 @@ ______
 
 Type into the "What needs to be done?" field to add new items to the list. Simply click on item to check or uncheck it.
 
-
-_______
-
-### Screenshots
 ![Screenshot](app/assets/images/Todo.gif)
