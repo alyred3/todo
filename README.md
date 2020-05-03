@@ -24,11 +24,13 @@ ______
 
 ### Installation
 
-Clone with SSH `git@github.com:alyred3/todo.git` or HTTPS `https://github.com/alyred3/todo.git`.
+From this repository click <b>Clone or download</b> and copy command for SSH `git@github.com:alyred3/todo.git` or HTTPS `https://github.com/alyred3/todo.git`
 
-Run `git clone git@github.com:alyred3/todo.git` or `git clone https://github.com/alyred3/todo.git` in local command line.
+From terminal window change to local directory where you want to clone repo
 
-Run `bundle install`
+Paste clone command into command line `$ git clone git@github.com:alyred3/todo.git` or `$ git clone https://github.com/alyred3/todo.git`
+
+Run `$ bundle install`
 ______
 ### How to use
 
