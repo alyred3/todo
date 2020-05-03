@@ -20,6 +20,14 @@ ______
 
 ______
 
+### Installation
+
+Clone with SSH `git@github.com:alyred3/todo.git` or HTTPS `https://github.com/alyred3/todo.git`.
+
+Run `git clone git@github.com:alyred3/todo.git` or `git clone https://github.com/alyred3/todo.git` in local command line.
+
+Run `bundle install`
+______
 ### How to use
 
 Type into the "What needs to be done?" field to add new items to the list. Simply click on item to check or uncheck it.
